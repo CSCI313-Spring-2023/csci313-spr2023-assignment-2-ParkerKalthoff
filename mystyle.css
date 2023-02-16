@@ -1,0 +1,25 @@
+body {
+    background-image: url("images/background.gif");
+    background-color: #cccccc;
+   }
+p   {
+        color: white;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+h1   {
+        color: yellow;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+h2   {
+        color: green;
+        font-family: "Arial";
+    }
+ol   {
+        color: red
+    }
+ul  {
+        color: purple
+    }
+table {
+        color: orangered
+    }
